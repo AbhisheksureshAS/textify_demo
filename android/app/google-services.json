@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910461824174",
+    "project_id": "testify-final",
+    "storage_bucket": "testify-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910461824174:android:12450da931fd684369d13f",
+        "android_client_info": {
+          "package_name": "com.example.textify_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMKI02DhElJwvzMS1QjjDIPIVrFsOLUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
