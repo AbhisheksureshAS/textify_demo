@@ -1,6 +1,6 @@
 
 
-# 📱 Textify (Testify) App
+# 📱 Textify App
 
 Textify is a Flutter-based mobile application designed to provide a clean and simple user experience for text-based interaction and testing features. This project demonstrates Flutter development skills including UI design, state management, and backend integration readiness.
 
